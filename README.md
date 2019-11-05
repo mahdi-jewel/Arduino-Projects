@@ -1,2 +1,1 @@
-# Arduino-Projects
-Arduino Projects for beginners 
+Some basic Arduino Projects for beginners with source code which are helpful to improve your Arduino coding skills.
