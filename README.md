@@ -15,4 +15,4 @@ Some basic Arduino Projects for beginners with source code which are helpful to 
 
 #LED control button_1 Description: (will provide soon)
 
-#LED control button_2 Description: (wil
+#LED control button_2 Description: (wi
