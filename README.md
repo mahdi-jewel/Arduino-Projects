@@ -13,6 +13,6 @@ Some basic Arduino Projects for beginners with source code which are helpful to 
 
 #LED blinking 0.6 Description: (will provide soon)
 
-#LED control button_1 Description: (will provide soo
+#LED control button_1 Description: (will provide so
 
 #LED control button_2 Description:
