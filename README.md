@@ -9,7 +9,7 @@ Some basic Arduino Projects for beginners with source code which are helpful to 
 
 #LED blinking 0.4 Description: (will provide soon)
 
-#LED blinking 0.5 Description: (will provi
+#LED blinking 0.5 Description: (will prov
 
 #LED blinking 0.6 Description: 
 
