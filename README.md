@@ -5,7 +5,7 @@ Some basic Arduino Projects for beginners with source code which are helpful to 
 
 #LED blinking 0.2 Description:
 
-#LED blinking 0.3 Description: (wi7,mj87,fl0
+#LED blinking 0.3 Description: (wi7,mj87,fl
 
 #LED blinking 0.4 Description: 
 
