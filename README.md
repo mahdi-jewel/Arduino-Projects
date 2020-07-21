@@ -11,7 +11,7 @@ Some basic Arduino Projects for beginners with source code which are helpful to 
 
 #LED blinking 0.5 Description: 
 
-#LED blinking 0.6 Descri
+#LED blinking 0.6 Descr
 
 
 
